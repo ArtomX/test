@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NewTestVK</string>
+    <integer name="com_vk_sdk_AppId">5270966</integer>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
