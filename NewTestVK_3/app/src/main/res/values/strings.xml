@@ -2,5 +2,7 @@
     <string name="app_name">NewTestVK</string>
     <integer name="com_vk_sdk_AppId">5270966</integer>
     <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_wall">Стена</string>
+    <string name="action_friends">Друзья</string>
+    <string name="action_messages">Сообщения</string>
 </resources>
