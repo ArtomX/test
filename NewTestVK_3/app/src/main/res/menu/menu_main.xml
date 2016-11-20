@@ -17,4 +17,5 @@
         android:orderInCategory="100"
         android:title="Сообщения"
         android:showAsAction="never"/>
+    
 </menu>
